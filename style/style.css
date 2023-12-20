@@ -56,6 +56,7 @@ header {
     background-color: var(--btn-color-bg);
     color: var(--btn-color-fg);
     border: none;
+    font-size: 18px;
     cursor: pointer;
     border-radius: 50px;
     transition: all 0.3s linear;
@@ -63,4 +64,18 @@ header {
 
 .btn-github:hover {
     color: #ff964f;
+}
+
+.content {
+    padding: 30px 10%;
+    font-family: 'Heebo', sans-serif;
+}
+
+.icon_git {
+    align-items: center;
+}
+
+.fa-github {
+    margin: 0 5px 0 5px;
+    font-size: 18px;
 }
