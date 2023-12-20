@@ -1,20 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Heebo&display=swap');
 
+:root {
+    --btn-color-bg: #FAF8F6;
+    --btn-color-fg: #282828;
+    --list-color: #f4f4f4;
+}
+
+
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+
 }
 
 body {
-    color: #FAF8F6;
+    background-color: #282828;
 }
 
-button, li, a {
+li, a, button {
     font-family: 'Heebo', sans-serif;
-    font-weight: 400;
+    font-weight: 500;
     size: 16px;
-    color: #000;
+    color: var(--list-color);
     text-decoration: none;
 }
 
@@ -35,3 +43,24 @@ header {
     padding: 0px 20px;
 }
 
+.itens-nav li a { 
+    transition: all 0.3s linear;
+}
+
+.itens-nav li a:hover {
+    color: #ff964f;
+}
+
+.btn-github {
+    padding: 9px 25px;
+    background-color: var(--btn-color-bg);
+    color: var(--btn-color-fg);
+    border: none;
+    cursor: pointer;
+    border-radius: 50px;
+    transition: all 0.3s linear;
+}
+
+.btn-github:hover {
+    color: #ff964f;
+}
