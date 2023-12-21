@@ -11,3 +11,9 @@
 </div>
 
 ![](https://github.com/Harlocks/keypirinha/blob/main/assets/images/warnLine.png?raw=true)
+
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fharlocks.github.io&up_message=ONLINE&up_color=77dd77&down_message=OFFLINE&down_color=ff6961&style=flat-square&logo=github&label=WEBSITE&labelColor=222">
+<img src="https://img.shields.io/github/repo-size/harlocks/harlocks.github.io?style=flat-square&label=REPO%20SIZE&labelColor=222
+">
+<img src="https://img.shields.io/github/stars/harlocks/harlocks.github.io?style=flat-square&label=STARS&labelColor=222
+">
