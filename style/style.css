@@ -41,6 +41,7 @@ header {
 .itens-nav li {
     display: inline-block;
     padding: 0px 20px;
+    font-size: 21px;
 }
 
 .itens-nav li a { 
@@ -78,4 +79,20 @@ header {
 .fa-github {
     margin: 0 5px 0 5px;
     font-size: 18px;
+}
+
+.ltext, .ctext, .rtext {
+    color: #FAF8F6;
+    font-size: 20px;
+    align-items: center;
+}
+
+.sub-menu {
+    list-style: none;
+    text-align: center;
+}
+
+.sub-menu li {
+    display: inline-block;
+    padding: 0 50px;
 }
