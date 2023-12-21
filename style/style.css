@@ -41,7 +41,7 @@ header {
 .itens-nav li {
     display: inline-block;
     padding: 0px 20px;
-    font-size: 21px;
+    font-size: 23px;
 }
 
 .itens-nav li a { 
@@ -94,5 +94,5 @@ header {
 
 .sub-menu li {
     display: inline-block;
-    padding: 0 50px;
+    padding: 0 10%;
 }
