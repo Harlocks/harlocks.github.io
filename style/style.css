@@ -84,7 +84,14 @@ header {
 .ltext, .ctext, .rtext {
     color: #FAF8F6;
     font-size: 20px;
-    align-items: center;
+}
+
+.ltext {
+    text-align: left;
+}
+
+.ctext {
+    text-align: center;
 }
 
 .sub-menu {
@@ -95,4 +102,56 @@ header {
 .sub-menu li {
     display: inline-block;
     padding: 0 10%;
+    font-size: 20px;
+    background: #f4f4f4;
+    color: #282828;
+    border-radius: 14px;
+
 }
+
+.table {
+    display: relative;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.table_menu {
+    color: #222;
+    background-color: #FAF8F6;
+
+}
+
+th, td {
+
+    padding: 0 20px;
+    font-size: 23px;
+    border-radius: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+td {
+    border: 3px solid black;
+    border-style: inset;
+    border-color: #5d9CEC;
+    color: #FAF8F6;
+}
+
+
+#logo {
+    /* top: 100%; */
+    /* left: 100%; */
+    display: block;
+    animation: rotateHue 2s alternate infinite;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    text-align: center;
+    color: #f4f4f4;
+    background: slateblue;
+}
+
+@keyframes rotateHue {
+    to {
+        filter: hue-rotate(1turn);
+    }
+}
+
