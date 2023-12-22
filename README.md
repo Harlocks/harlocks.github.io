@@ -1,6 +1,6 @@
 <div align="center">
     <img src="assets/img/FlashCardsBanner.png" width="512">
-    <p>Open source project containing flashcards for the Anki App<b>Anki App</b></p>
+    <p>Open source project containing flashcards for the <b>Anki App</b></p>
 </div>
 
 ![](https://github.com/Harlocks/keypirinha/blob/main/assets/images/warnLine.png?raw=true)
