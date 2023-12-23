@@ -19,3 +19,7 @@
     <img src="https://img.shields.io/github/stars/harlocks/harlocks.github.io?style=flat-square&label=STARS&labelColor=222">
 </div>
 
+<h2>🎯 Objetivo</h2>
+<p>Se você já utilizou o aplicativo <b>Anki</b>, sabe muito bem que ele dá a possibilidade de qualquer usuário criar seu próprio Deck e importar para dentro de sua biblioteca. Entretanto, algumas pessoas não conhecem a facilidade que dá para fazer isso. Foi com essa ideia que decidi criar esse repositório, onde as pessoas simplesmente podem compartilhar seus próprios arquivos <code>.csv</code> criados a partir do <b>ChatGPT</b>. </p>
+
+> Lembrando que esse reposítorio não tem apenas como finalidade guiar as pessoas na criação de Decks, mas também compartilhar com outras pessoas seus próprios decks, deixando público para todos aqui dentro desse repositório.
